@@ -30,7 +30,7 @@ chain= prompt_template | model|parser
 st.title("Language Translator")
 
 text= st.text_area("Enter the text to be translated")
-language= st.text_input("Enter target language (e.g., Spanish, French):")
+language= st.text_input("Enter target language (e.g.,Hindi, Spanish, French):")
 
 if st.button("Translate"):
         try:
