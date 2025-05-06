@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+langchain-groq
+
+
+sse_starlette
+
+langserve==0.0.42
+streamlit
